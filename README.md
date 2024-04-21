@@ -1,5 +1,5 @@
-# eCMastermindAngular
-Certainly! Documenting modules in an Angular application can help provide clarity and organization to your project. Below is an example documentation for the modules used in the sample project structure you provided:
+
+Documenting modules in an Angular application can help provide clarity and organization to your project. Below is an example documentation for the modules used in the sample project structure you provided:
 
 ---
 
